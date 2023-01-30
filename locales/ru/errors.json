@@ -1,0 +1,21 @@
+{
+  "feedback": {
+    "email": {
+      "errorInvalid": "Invalid email",
+      "errorRequired": "Email is required"
+    },
+    "message": {
+      "errorRequired": "Message is required"
+    },
+    "name": {
+      "errorLength_one": "Too long name ({count} characters max)",
+      "errorLength_few": "Too long name ({count} characters max)",
+      "errorLength_many": "Too long name ({count} characters max)",
+      "errorLength_other": "Too long name ({count} characters max)",
+      "errorRequired": "Name is required"
+    },
+    "rating": {
+      "errorRequired": "Rating is required"
+    }
+  }
+}

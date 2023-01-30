@@ -1,0 +1,14 @@
+@import url('https://rsms.me/inter/inter.css');
+
+// or local
+// @import '../fonts/Inter-hinted/inter';
+
+// Variables
+@ff: 'Inter', sans-serif;
+@ff-var: 'Inter var', sans-serif;
+
+// Apply font
+html { font-family: @ff; textarea, button { font-family: @ff; } }
+@supports (font-variation-settings: normal) {
+	html { font-family: @ff-var; textarea, button { font-family: @ff; } }
+}

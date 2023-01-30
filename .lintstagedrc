@@ -1,0 +1,10 @@
+{
+	"src/**/*.{ts,tsx}": [
+		"prettier --ignore-path .gitignore --write",
+		"eslint --ignore-path .gitignore --fix src/",
+		"stylelint --config=.stylelintrc-sc.config.js"
+	],
+	"src/**/*.{css,less}": [
+		"stylelint --config=.stylelintrc"
+	]
+}

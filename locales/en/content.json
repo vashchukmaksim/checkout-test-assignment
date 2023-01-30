@@ -1,0 +1,30 @@
+{
+  "back": {
+    "action": "Go back"
+  },
+  "feedback": {
+    "comment": {
+      "placeholder": "Please leave your message here *"
+    },
+    "email": {
+      "placeholder": "Email *"
+    },
+    "name": {
+      "placeholder": "Name *"
+    },
+    "rating": {
+      "label": "Rate us: *"
+    },
+    "submit": {
+      "label": "Submit feedback"
+    },
+    "title": "Customer feedback"
+  },
+  "latestReviews": {
+    "title": "Latest reviews"
+  },
+  "reviews": {
+    "noItemsPlaceholder": "No reviews have been submitted yet",
+    "title": "Customer reviews"
+  }
+}

@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+bundle/
+npm-debug.log
+coverage/
+.DS_Store
+*.iml
+*.gz
+yarn-error.log
+index.html
