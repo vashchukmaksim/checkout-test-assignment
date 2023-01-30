@@ -9,6 +9,13 @@ all these parts were done 100% by myself in the past and are improving continuou
 
 ## Run
 
+Install packages
+
+```bash
+cd checkout-test-assignment
+yarn
+```
+
 To run local Webpack Dev server use a command bellow. Then open in a browser: `http://localhost:5051` to access the app.
 
 ```bash
